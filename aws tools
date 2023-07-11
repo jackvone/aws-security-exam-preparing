@@ -1,0 +1,15 @@
+Tools for aws security
+1.1 AWS IAM: AWS Identity and Access Management (IAM) enables you to manage access to AWS services and resources securely
+1.2 CloudWatch: CloudWatch is the AWS monitoring tool
+1.3 CloudTrail: AWS CloudTrail is a service that enables governance, compliance, operational auditing, and risk auditing of your AWS account
+1.4 AWS Inspector: AWS inspector is a security assessment service that does vulnerability and best-practice scanning for AWS applications
+1.5 Amazon GuardDuty: GuardDuty is a managed threat detection service that is simple to deploy, and scales with your infrastructure
+1.6 AWS KMS: AWS KMS is a secure and resilient service that uses hardware security modules that have been validated under FIPS 140-2
+1.7 AWS Shield: AWS Shield is a managed DDoS protection service. AWS Shield can protect EC2, Load balancers, CloudFront, Global Accelerator, and Route 53 resources
+1.8 AWS Trusted Advisor: AWS Trusted Advisor is an online tool that provides you real time guidance to help you provision your resources following AWS best practices
+1.9 AWS Config: AWS Config is a service that enables you to assess, audit, and evaluate the configurations of your AWS resources
+1.10 Security Hub: AWS Security Hub gives you a comprehensive view of your high-priority security alerts and security posture across your AWS accounts
+1.11 AWS WAF: AWS WAF is a web application firewall that helps protect your web applications or APIs against common web exploits that may affect availability, compromise security, or consume excessive resources
+1.12 AWS Macie: Macie is all about protecting data. It is a machine learning service that watches data access trends and finds anomalies to spot data leaks and unauthorized data access.
+1.13 AWS Detective: Amazon Detective automatically collects log data from your AWS resources and uses machine learning, statistical analysis, and graph theory to build a linked set of data that enables you to easily conduct faster and more efficient security investigations.
+1.14 AWS Conformance Packs: A conformance pack is a collection of AWS Config rules and remediation actions that can be easily deployed as a single entity in an account and a Region or across an organization in AWS Organizations
