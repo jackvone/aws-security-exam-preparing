@@ -1,0 +1,7 @@
+Securing your S3 buckets by:
+
+Monitoring your S3 buckets using products like AWS Config
+Building your own S3 monitoring solution using AWS Cloudtrail and Lambda
+Command-line testing with tools like S3 Inspector
+Using AWS Identity and Access Management (IAM) user policies that specify the users that can access specific buckets and objects
+Good configuration bucket policies and ACLs 
